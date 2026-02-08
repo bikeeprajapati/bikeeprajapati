@@ -1,5 +1,84 @@
-# 💫 About Me:
-👋 Hey there! I'm Bikee Prajapati<br>📸 Freelance Photographer | IT Support | Programming Enthusiast<br><br>I’m a passionate photographer who loves capturing moments and perfecting them through photo editing. Alongside my creative side, I also have experience as a freelance IT support professional for a US-based vendor.<br><br>Currently, I'm pursuing a bachelor’s degree in Information Management and diving deep into the world of programming. I love exploring new technologies, working on web development projects, and solving real-world problems through code.<br><br>🚀 Tech Stack & Interests:<br><br>Web Development (HTML, CSS, JavaScript, PHP)<br>Backend Development (Django, Flask, PHP)<br>Database Design & Normalization<br>AI & Machine Learning Concepts<br>Photography & Digital Editing<br>💡 Always excited to connect, collaborate, and learn from fellow developers, creatives, and tech enthusiasts. Let’s build something amazing together!<br><br>📬 Let's Connect!
+# Hi there 👋, I'm Bikee Prajapati
+
+🚀 Aspiring Software Engineer | PHP & Drupal Trainee | GenAI Enthusiast  
+🎓 BIM Student | Kathmandu, Nepal 🇳🇵  
+
+---
+
+## 👨‍💻 About Me
+
+I'm a curious and motivated developer who enjoys building things by learning **how they actually work**.  
+Currently training as an **Associate Software Engineer (PHP/Drupal)** while also exploring the world of **Generative AI**.
+
+I believe in learning by doing — breaking things, fixing them, and improving step by step.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks**
+- PHP
+- Python
+- JavaScript (Basics)
+- Drupal
+- HTML & CSS
+
+**AI / Backend**
+- LangChain
+- FastAPI
+- Streamlit
+- Hugging Face
+- REST APIs
+
+**Tools & Platforms**
+- Git & GitHub
+- Linux (Ubuntu)
+- VS Code
+- Docker (Basics)
+
+---
+
+## 📌 What I’m Currently Doing
+
+- 🔹 Training as a PHP/Drupal developer  
+- 🔹 Building small CRUD and real-world projects  
+- 🔹 Practicing GenAI concepts (RAG, Prompt Engineering, Agents)  
+- 🔹 Improving problem-solving and clean code habits  
+
+---
+
+## 📂 Projects
+
+- 💱 **AI Currency Converter** – FastAPI + LangChain + Streamlit  
+- 🧠 **LangChain Practice Labs** – Runnables, chains, structured output  
+- 📄 **README Generator App** – Auto-generate project documentation  
+- 🧩 **Basic PHP CRUD Apps**  
+
+_(More coming as I learn and build 🚧)_
+
+---
+
+## 📈 Learning Philosophy
+
+> “Consistency beats intensity.”
+
+- Build daily
+- Learn from mistakes
+- Write clean and readable code
+- Share progress openly
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 LinkedIn: *add your link here*
+- 🧑‍💻 GitHub: *you’re already here 😄*
+- 📫 Email: *add if you want*
+
+---
+
+⭐ If you find my work useful, feel free to star a repo or connect!
+
 
 
 ## 🌐 Socials:
