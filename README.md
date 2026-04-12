@@ -71,9 +71,8 @@ _(More coming as I learn and build 🚧)_
 
 ## 🤝 Let’s Connect
 
-- 💼 LinkedIn: *add your link here*
 - 🧑‍💻 GitHub: *you’re already here 😄*
-- 📫 Email: *add if you want*
+- 📫 Email: *workwithbikee@gmai.com*
 
 ---
 
