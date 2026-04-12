@@ -72,7 +72,7 @@ _(More coming as I learn and build 🚧)_
 ## 🤝 Let’s Connect
 
 - 🧑‍💻 GitHub: *you’re already here 😄*
-- 📫 Email: *workwithbikee@gmai.com*
+- 📫 Email: *workwithbikee@gmail.com*
 
 ---
 
