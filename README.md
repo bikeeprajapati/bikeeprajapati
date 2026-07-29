@@ -1,7 +1,7 @@
 # Bikee Prajapati
 
 **AI/ML Engineer & Full-Stack Developer**
-Kathmandu, Nepal · [LinkedIn](https://www.linkedin.com/in/bikee-prajapati9898/) · [Email](mailto:workwithbikee@gmail.com)
+Kathmandu, Nepal · [LinkedIn](https://www.linkedin.com/in/bikee-prajapati9898/) · [Email](mailto:bikeeprajapati1@gmail.com)
 
 ---
 
@@ -45,8 +45,19 @@ Custom module development on Drupal 7 for the SIMS/InnovateX platform (PHP).
 **Tools** — Git, REST APIs, Vercel, Render
 
 ---
-## 📊 GitHub Stats:![](https://github-readme-stats.vercel.app/api?username=bikeeprajapati&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>![](https://github-readme-streak-stats.herokuapp.com/?user=bikeeprajapati&theme=dark&hide_border=false)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=bikeeprajapati&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
 
 ## Contact
 
 Reachable via [email](mailto:bikeeprajapati1@gmail.com) or [LinkedIn](https://www.linkedin.com/in/bikee-prajapati9898/) for roles and collaboration.
+
+---
+
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=bikeeprajapati&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bikeeprajapati&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bikeeprajapati&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=bikeeprajapati&icon=0&color=0)](https://visitcount.itsvg.in)
