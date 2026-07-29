@@ -45,6 +45,7 @@ Custom module development on Drupal 7 for the SIMS/InnovateX platform (PHP).
 **Tools** — Git, REST APIs, Vercel, Render
 
 ---
+## 📊 GitHub Stats:![](https://github-readme-stats.vercel.app/api?username=bikeeprajapati&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>![](https://github-readme-streak-stats.herokuapp.com/?user=bikeeprajapati&theme=dark&hide_border=false)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=bikeeprajapati&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
 
 ## Contact
 
