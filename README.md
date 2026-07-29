@@ -1,104 +1,72 @@
-# Hi there 👋 I'm Bikee Prajapati
+# Bikee Prajapati
 
-🤖 AI/ML Engineer in the Making | GenAI & RAG Systems Builder  
-🎓 Final-Year BIM Student | Kathmandu, Nepal 🇳🇵  
+AI/ML Engineer | Full-Stack Developer | BIM Graduate, Tribhuvan University
+Kathmandu, Nepal
 
----
-
-## 👨‍💻 About Me
-
-I build and ship production-ready AI systems from scratch.  
-Not just notebooks — real applications with backends, APIs, and Docker deployments.
-
-I enjoy understanding how things work under the hood, which is why I built my RAG 
-chatbot without LangChain so I could learn every layer of the retrieval pipeline myself.
-
-Currently looking for AI/ML internship opportunities where I can keep building real things.
+[LinkedIn](https://www.linkedin.com/in/bikee-prajapati9898/) · [Email](mailto:bikeeprajapati1@gmail.com) · [GitHub](https://github.com/bikeeprajapati)
 
 ---
 
-## 🛠️ Tech Stack
+## About
 
-**AI & Machine Learning**
-- Python, Scikit-learn, TensorFlow
-- Hugging Face Transformers, Sentence Transformers
-- LangChain, FAISS Vector Search
-- RAG Pipelines, Prompt Engineering
-- Mistral, Flan-T5, MiniLM
+I build production-ready software across the full stack, with a focus on applied AI/ML — retrieval-augmented generation, on-device inference, and end-to-end backend systems. I care about understanding how things work under the hood, which is why I built my RAG pipeline from scratch instead of relying on a framework.
 
-**Backend & MLOps**
-- FastAPI, REST APIs
-- Docker, Docker Hub
-- Git, GitHub
-- PyMuPDF, Streamlit
+I hold a Bachelor's degree in Information Management from Shanker Dev Campus, Tribhuvan University, and I'm currently deepening my full-stack and AI/ML skills through the Dev Weekends mentorship program. My recent work spans a MERN/Next.js learning management system, a multi-vendor e-commerce platform, and experiments running small language models fully on-device for offline, connectivity-limited environments.
 
-**Data**
-- Pandas, NumPy
-- SQL
-- Feature Engineering, Cross-validation
+Open to AI/ML and full-stack engineering roles.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🧠 [DocMind — RAG ChatBot](https://github.com/bikeeprajapati/RAG_ChatBot)
-A production-ready PDF Q&A system built completely from scratch without LangChain.  
-Upload any PDF and have an intelligent conversation with it using Mistral LLM.  
-`Python` `FastAPI` `FAISS` `Hugging Face` `Docker Hub`
+**[DocMind — RAG Chatbot](https://github.com/bikeeprajapati/RAG_ChatBot)**
+A PDF question-answering system built without LangChain, with the retrieval pipeline implemented from scratch. Uses Mistral for generation and FAISS for vector search, served via FastAPI and deployed with Docker.
+`Python` `FastAPI` `FAISS` `Hugging Face` `Docker`
 
-### 📄 [AI-Powered README Generator](https://github.com/bikeeprajapati/readme-generator)
-Clones any public GitHub repo, reads its structure, and auto-generates a professional 
-README using Flan-T5 and Mistral through a LangChain pipeline.  
+**[Multi-Vendor E-Commerce Platform (ShopO)](https://github.com/bikeeprajapati/multivendor-mern)**
+A full-featured multi-vendor marketplace with real-time order updates, seller dashboards, and payment integration. Deployed across Vercel and Render with Socket.IO for live features and Brevo for transactional email.
+`MERN` `Socket.IO` `Redis` `Stripe`
+
+**[AI-Powered README Generator](https://github.com/bikeeprajapati/readme-generator)**
+Clones a public GitHub repository, analyzes its structure, and generates a tailored README using a Flan-T5/Mistral pipeline orchestrated with LangChain.
 `LangChain` `FastAPI` `Hugging Face` `Docker`
 
-### 🔍 [Fraud Detection ML API](https://github.com/bikeeprajapati/fraud-detection-ml-api)
-Real-time fraud detection using classification models served via a REST API with 
-evaluation metrics returned alongside each prediction.  
+**[Fraud Detection ML API](https://github.com/bikeeprajapati/fraud-detection-ml-api)**
+Real-time transaction fraud classification exposed as a REST API, returning prediction confidence and evaluation metrics alongside each result.
 `Python` `FastAPI` `Scikit-learn`
 
-### 📋 [Smart Resume Parser](https://github.com/bikeeprajapati/smart-resume-parser)
-NLP pipeline that extracts structured information from raw resume text using 
-named entity recognition.  
+**[Smart Resume Parser](https://github.com/bikeeprajapati/smart-resume-parser)**
+An NLP pipeline that extracts structured candidate data — skills, experience, education — from raw resume text using named entity recognition.
 `Python` `spaCy` `NLP`
 
 ---
 
-## 📈 What I'm Working On
+## Currently Building
 
-- 🔹 Exploring LangGraph and multi-agent AI systems
-- 🔹 Deepening knowledge of vector databases and embeddings
-- 🔹 Contributing to open source AI tooling
-- 🔹 Applying for AI/ML internships globally
-
----
-
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bikee-prajapati9898/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bikeeprajapati1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/bikeeprajapati)
+- An industrial-grade Learning Management System (MERN + Next.js, TypeScript, Redis, Socket.IO, Stripe, Cloudinary) as a portfolio-scale monorepo project
+- On-device small language model experiments in Flutter, targeting offline EdTech use cases for low-connectivity regions of Nepal
+- Multi-agent AI systems and deeper work with vector databases and embeddings
 
 ---
 
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+## Tech Stack
+
+**AI / ML**
+Python · Scikit-learn · TensorFlow · Hugging Face Transformers · LangChain · FAISS · RAG Pipelines · Prompt Engineering
+
+**Full-Stack Development**
+TypeScript · Next.js · React · Node.js · Express · MongoDB · PostgreSQL · Prisma · Redis · Socket.IO
+
+**Infrastructure & Tools**
+Docker · Git · REST APIs · AWS EC2 · Vercel · Render
+
+**Data**
+Pandas · NumPy · SQL · Feature Engineering
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bikeeprajapati&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bikeeprajapati&theme=dark&hide_border=false)<br/>
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=bikeeprajapati&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=bikeeprajapati&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bikeeprajapati&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=bikeeprajapati&icon=0&color=0)](https://visitcount.itsvg.in)
